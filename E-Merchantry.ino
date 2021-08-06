@@ -11,10 +11,10 @@
 #include <Keypad.h>
 
  
-#define FIREBASE_HOST "esp8266project-85998-default-rtdb.firebaseio.com"      
-#define FIREBASE_AUTH "bGvvWfOr7S6WA6uwhOg0WDnsns1j9Ylwz0QTDHZz"            
-#define WIFI_SSID "Galaxym31s"                                  
-#define WIFI_PASSWORD "1234567890"            
+#define FIREBASE_HOST " ########### "      
+#define FIREBASE_AUTH " ########### "            
+#define WIFI_SSID " ########### "                                  
+#define WIFI_PASSWORD " ########### "            
 
 const byte n_rows = 4;
 const byte n_cols = 4;
